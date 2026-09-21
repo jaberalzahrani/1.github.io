@@ -1,0 +1,6 @@
+{
+  "name": "PDF Studio & Converter",
+  "description": "Professional client-side PDF suite to compress, edit, merge, convert PDF to Word, split, rotate, sign, watermark, and convert image types (PNG, JPG, WebP).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
